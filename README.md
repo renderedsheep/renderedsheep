@@ -1,6 +1,6 @@
-## Hi there 🖖
+## Indie developer, filmmaker and innovation program manager
 
-### Indie developer, filmmaker and innovation program manager
+### Hi there, Olá, Привет! 🖖
 
 My work sits where technology meets other fields: AI, film and visual effects, data visualization and energy research. By day I manage innovation programs, helping university faculty commercialize their research. Outside of work I make games, short films and electronics, including tools for hardware most people threw out decades ago - call it tech archaeology.
 
