@@ -2,7 +2,7 @@
 
 ### Indie developer, filmmaker and innovation program manager
 
-My work sits where technology meets other fields: AI, film and visual effects, data visualization and energy research. By day I manage innovation programs, running an AI startup support program and helping university faculty commercialize their research. Outside of work I make games, short films and electronics, including tools for hardware most people threw out decades ago - call it tech archaeology.
+My work sits where technology meets other fields: AI, film and visual effects, data visualization and energy research. By day I manage innovation programs, helping university faculty commercialize their research. Outside of work I make games, short films and electronics, including tools for hardware most people threw out decades ago - call it tech archaeology.
 
 The projects below are personal and shared openly. Feel free to use them, build on them or open an issue if you spot a mistake.
 
