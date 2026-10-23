@@ -7,8 +7,8 @@ My work sits where technology meets other fields: AI, film and visual effects, d
 The projects below are personal and shared openly. Feel free to use them, build on them or open an issue if you spot a mistake.
 
 **Elsewhere**
-- [🕹️RetroGameplayer.com](https://RetroGameplayer.com): my vintage gaming tools and online netplay service
-- [🎬PlayableFX.com](https://www.PlayableFX.com): my film, VFX and game development work
+- [🕹️RetroGameplayer.com](http://RetroGameplayer.com): my vintage gaming tools and online netplay service
+- [🎬PlayableFX.com](http://www.PlayableFX.com): my film, VFX and game development work
 
 #### Projects
 
