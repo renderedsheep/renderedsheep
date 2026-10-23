@@ -8,7 +8,7 @@ The projects below are personal and shared openly. Feel free to use them, build 
 
 **Elsewhere**
 - [🕹️RetroGameplayer.com](http://RetroGameplayer.com): my vintage gaming tools and online netplay service
-- [🎬PlayableFX.com](http://www.PlayableFX.com): my film, VFX and game development work
+- [🎬PlayableFX.com](http://PlayableFX.com): my film, VFX and game development work
 
 #### Projects
 
