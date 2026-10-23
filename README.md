@@ -4,7 +4,7 @@
 
 My work sits where technology meets other fields: AI, film and visual effects, data visualization and energy research. By day I manage innovation programs, helping university faculty commercialize their research. Outside of work I make games, short films and electronics, including tools for hardware most people threw out decades ago - call it tech archaeology.
 
-The projects below are personal and shared openly. Feel free to use them, build on them or open an issue if you spot a mistake.
+The projects below are personal, shared openly. Feel free to use them, build on them or open an issue if you spot an issue.
 
 **Elsewhere**
 - [🕹️RetroGameplayer.com](http://RetroGameplayer.com): my vintage gaming tools and online netplay service
