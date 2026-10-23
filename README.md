@@ -1,4 +1,4 @@
-## Indie developer, filmmaker and innovation program manager
+## Indie developer, filmmaker and innovation manager
 
 ### Hi there, Olá, Привет! 🖖
 
