@@ -2,9 +2,9 @@
 
 ### Hi there, Olá, Привет! 🖖
 
-My work sits at the intersections where technology meets other fields: AI, film and visual effects, data visualization and energy research. By day I manage innovation programs, helping university faculty translate (commercialize) their research. Outside of work I make tools, games, and short films, including upgrades to hardware most people threw out decades ago - call it tech archaeology.
+My work sits at the intersections where technology meets other fields: AI, film and visual effects, data visualization and energy research. By day I manage innovation programs, helping university faculty translate (commercialize) their research. Outside of work I make tools, games, and short films, including upgrades to hardware most people threw out decades ago - I call it tech archaeology.
 
-The projects below are personal, shared openly. Feel free to use them, build on them or open an issue if you spot a problem. 
+The projects below are personal, shared openly.
 
 **Elsewhere**
 - [🎬PlayableFX.com](http://PlayableFX.com): my film, VFX and game development work
