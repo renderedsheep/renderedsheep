@@ -6,12 +6,10 @@ My work spans AI, film and visual effects, data visualization and even energy re
 
 By day I manage innovation programs. I help university faculty commercialize their research and support early-stage AI startups. Outside of work I make tools, games and short films, and I upgrade hardware most people threw out decades ago. I call it tech archaeology.
 
-Everything below is a personal project, shared openly.
-
 ## Elsewhere
-- 🎬 [PlayableFX.com](https://playablefx.com): film, VFX and game development
-- 🕹️ [RetroGameplayer.com](https://retrogameplayer.com): vintage gaming tools and online netplay
-- 🧰 [CommercializationWorkbench.com](https://commercializationworkbench.com): A free commercialization tool for startups (and mentors) that incorporates adoption readiness, customer discovery, and trade-off remediation. 
+- 🎬 [PlayableFX.com](https://playablefx.com): my film, VFX and game development work
+- 🕹️ [RetroGameplayer.com](https://retrogameplayer.com): my vintage gaming tools and online netplay service
+- 🧰 [CommercializationWorkbench.com](https://commercializationworkbench.com): my free commercialization tool for startups (and mentors) that incorporates adoption readiness, customer discovery and trade-off remediation. 
 
 #### Git-hosted Projects
 
