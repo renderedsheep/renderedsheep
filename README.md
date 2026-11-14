@@ -2,13 +2,16 @@
 
 ### Hi there, Olá, Привет! 🖖
 
-My work sits at the intersections where technology meets other fields: AI, film and visual effects, data visualization and energy research. By day I manage innovation programs, helping university faculty translate (commercialize) their research. Outside of work I make tools, games, and short films, including upgrades to hardware most people threw out decades ago - I call it tech archaeology.
+My work spans AI, film and visual effects, data visualization and even energy research.
 
-The projects below are personal, shared openly.
+By day I manage innovation programs. I help university faculty commercialize their research and support early-stage AI startups. Outside of work I make tools, games and short films, and I upgrade hardware most people threw out decades ago. I call it tech archaeology.
 
-**Elsewhere**
-- [🎬PlayableFX.com](http://PlayableFX.com): my film, VFX and game development work
-- [🕹️RetroGameplayer.com](http://RetroGameplayer.com): my vintage gaming tools and online netplay service
+Everything below is a personal project, shared openly.
+
+## Elsewhere
+- 🎬 [PlayableFX.com](https://playablefx.com): film, VFX and game development
+- 🕹️ [RetroGameplayer.com](https://retrogameplayer.com): vintage gaming tools and online netplay
+- 🧰 [CommercializationWorkbench.com](https://commercializationworkbench.com): A free commercialization tool for startups (and mentors) that incorporates adoption readiness, customer discovery, and trade-off remediation. 
 
 #### Git-hosted Projects
 
