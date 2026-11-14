@@ -2,7 +2,7 @@
 
 ### Hi there, Olá, Привет! 🖖
 
-My work spans AI, film and visual effects, data visualization and even energy research.
+My work spans AI, film and visual effects, data visualization and innovation programming. 
 
 By day I manage innovation programs. I help university faculty commercialize their research and support early-stage AI startups. Outside of work I make tools, games and short films, and I upgrade hardware most people threw out decades ago. I call it tech archaeology.
 
